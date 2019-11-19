@@ -1,0 +1,8 @@
+{
+    "name": "gittesttwo",
+    "version": "1.0.0",
+    "keywords": ["util", "functional", "server", "client", "browser"],
+    "author": "Tiez",
+    "contributors": [],
+    "dependencies": {}
+}
