@@ -1,0 +1,2 @@
+https://stackoverflow.com/questions/22842977/laravel-eloquent-and-multiple-joins
+

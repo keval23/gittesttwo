@@ -1,0 +1,37 @@
+        /* $arrValidate['state_hide_in'] = [
+            'nullable',
+            function ($attribute, $value, $fail) use ($arr_state) {
+                $arrVal = explode(",", $value);
+                foreach($arrVal as $valBT)
+                {
+                    if (!in_array($valBT,$arr_state)) {
+                         $fail($valBT ." state name is invalid.");
+                    }
+                }
+            },
+        ]; */
+        /*$arrValidate['state_show_in'] = [
+            'nullable',
+            function ($attribute, $value, $fail) use ($arr_state) {
+                $arrVal = explode(",", $value);
+                foreach($arrVal as $valBT)
+                {
+                    if (!in_array($valBT,$arr_state)) {
+                         $fail($valBT ." state name is invalid.");
+                    }
+                }
+            },
+        ]; */
+
+        /*$arrValidate['attributes_hastag'] = [
+            'required',
+            function ($attribute, $value, $fail) use ($arr_attributesHashtags) {
+                $arrVal = explode(",", $value);
+                foreach($arrVal as $valBT)
+                {
+                    if (!in_array($valBT,$arr_attributesHashtags)) {
+                         $fail($valBT ." attributes Hashtags is invalid.");
+                    }
+                }
+            },
+        ];*/
